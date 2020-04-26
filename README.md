@@ -1,3 +1,4 @@
 
-Haberman's Survival Data Set
-Survival of patients who had undergone surgery for breast cancer
+#Haberman's Survival Data Set
+
+Exploratory data analysis Survival of patients who had undergone surgery for breast cancer
