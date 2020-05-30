@@ -1,14 +1,2 @@
-
-#Haberman's Survival Data Set
-
-Data Description The Haberman's survival dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
-
-Attribute Information:
-
-1.Age of patient at time of operation (numerical)
-
-2.Patient's year of operation (year - 1900, numerical)
-
-3.Number of positive axillary nodes detected (numerical)
-
-4.Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 years
+ Detecting Fake News
+Do you trust all the news you hear from social media? All news are not real, right? So how will you detect the fake news? The answer is Python. By practicing this , detecting fake news, we can easily  make a difference between real and fake news. Before moving ahead in this i have used  tfidfvectorizer, PassiveAggressive Classifier.
